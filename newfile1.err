@@ -1,0 +1,36 @@
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 44 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 52 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 58 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 62 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 65 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 73 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 76 : call of function without prototype
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 89 : symbol 'TRISDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 89 : struct or union object designator expected
+Error[1101] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 89 : lvalue required
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 90 : symbol 'TRISDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 90 : struct or union object designator expected
+Error[1101] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 90 : lvalue required
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 91 : symbol 'TRISDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 91 : struct or union object designator expected
+Error[1101] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 91 : lvalue required
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 96 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 97 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 111 : call of function without prototype
+Warning[2058] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 115 : call of function without prototype
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 119 : symbol 'PORTDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 119 : struct or union object designator expected
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 119 : symbol 'PORTDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 119 : struct or union object designator expected
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 119 : symbol 'PORTDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 119 : struct or union object designator expected
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 127 : symbol 'PORTDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 127 : struct or union object designator expected
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 127 : symbol 'PORTDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 127 : struct or union object designator expected
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 127 : symbol 'PORTDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 127 : struct or union object designator expected
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 128 : symbol 'PORTDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 128 : struct or union object designator expected
+Error[1105] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 128 : symbol 'PORTDbits' has not been defined
+Error[1151] C:\Users\Monster\MPLABXProjects\FINAL_PROJECT.X\newfile1.c 128 : struct or union object designator expected
